@@ -7,7 +7,7 @@
     "axios": "^0.21.1",
     "bootstrap": "^4.6.0",
     "font-awesome": "4.7.0",
-    "gh-pages": "2.0.1",
+    "gh-pages": "5.0.0",
     "leagueapiwrapper": "^2.0.6",
     "node": "^12.18.2",
     "react": "16.8.6",
